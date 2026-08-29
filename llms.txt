@@ -1,0 +1,88 @@
+# Retrofit cost UK 2026: heat pump vs deep retrofit, grants and PAS 2035
+
+> A surveyor's working file on UK house retrofit cost in 2026. Heat-pump-only £8 to £14k after BUS, phased deep retrofit £35 to £70k, with PAS 2035 fees and the Q3...
+
+## Pages
+
+- [Home](https://retrofitcost.co.uk): A surveyor's working file on UK house retrofit cost in 2026. Heat-pump-only £8 to £14k after BUS, phased deep retrofit £35 to...
+- [About retrofitcost.co.uk](https://retrofitcost.co.uk/about): About retrofitcost.co.uk: a surveyor's working file on UK house retrofit cost, written by Oliver Wakefield-Smith, Founder of Digital Signet
+- [Can I get the BUS grant without PAS 2035](https://retrofitcost.co.uk/answer/can-i-get-the-bus-grant-without-pas-2035): Direct-answer page: Can I get the BUS grant without PAS 2035. Q3 2026 anchors applied
+- [How much does a full house retrofit cost (UK 2026)](https://retrofitcost.co.uk/answer/how-much-does-a-full-house-retrofit-cost): Direct-answer page: How much does a full house retrofit cost (UK 2026). Q3 2026 anchors applied
+- [Is a heat pump worth it in 2026](https://retrofitcost.co.uk/answer/is-a-heat-pump-worth-it-2026): Direct-answer page: Is a heat pump worth it in 2026. Q3 2026 anchors applied
+- [MEES EPC C 2030 landlord cost](https://retrofitcost.co.uk/answer/mees-epc-c-2030-cost): Direct-answer page: MEES EPC C 2030 landlord cost. Q3 2026 anchors applied
+- [What is a deep retrofit](https://retrofitcost.co.uk/answer/what-is-a-deep-retrofit): Direct-answer page: What is a deep retrofit. Q3 2026 anchors applied
+- [UK house archetype retrofit cost (2026)](https://retrofitcost.co.uk/archetypes): Four UK archetypes drive most retrofit decisions: Victorian solid wall, 1930s cavity semi, 1960s system-built, post-2000 new build. Capex envelopes for each...
+- [1930s semi retrofit cost (UK 2026)](https://retrofitcost.co.uk/archetypes/1930s-semi): 1930s semi retrofit cost: working capex envelope, sequenced measure cost, PAS 2035 risk path
+- [1960s system-built house retrofit cost (UK 2026)](https://retrofitcost.co.uk/archetypes/1960s-system-build): 1960s system-built house retrofit cost: working capex envelope, sequenced measure cost, PAS 2035 risk path
+- [Post-2000 new-build retrofit cost (UK 2026)](https://retrofitcost.co.uk/archetypes/post-2000-new-build): Post-2000 new-build retrofit cost: working capex envelope, sequenced measure cost, PAS 2035 risk path
+- [Victorian solid wall retrofit cost (UK 2026)](https://retrofitcost.co.uk/archetypes/victorian-solid-wall): Victorian solid wall retrofit cost: working capex envelope, sequenced measure cost, PAS 2035 risk path
+- [Retrofit cost calculator (UK 2026)](https://retrofitcost.co.uk/calculator): A surveyor's working calculator for UK house retrofit cost in 2026. Compares heat-pump-only against phased deep retrofit, applies the BUS, ECO4, GBIS...
+- [Deep retrofit versus heat pump only (UK 2026)](https://retrofitcost.co.uk/calculator/deep-vs-heat-pump): Side-by-side capex, net-after-grants and payback for an ASHP-only project versus a phased PAS 2035 deep retrofit. Q3 2026 Ofgem cap baked in
+- [Grant stack: BUS + ECO4 + GBIS + 0% VAT (UK 2026)](https://retrofitcost.co.uk/calculator/grant-stack): How the four live UK retrofit grants stack on the same project in 2026, in the order Ofgem and DESNZ apply them....
+- [Retrofit payback period at Q3 2026 Ofgem cap (UK)](https://retrofitcost.co.uk/calculator/payback): Payback years for an ASHP and for a phased deep retrofit, at Ofgem Q3 2026 unit rates (gas 7.33p, electricity 26.11p, gas...
+- [Retrofit grants UK 2026](https://retrofitcost.co.uk/grants): Live UK retrofit grants in 2026: Boiler Upgrade Scheme £7,500, ECO4 (closing 31 Dec 2026), GBIS, 0% VAT to March 2027, Warm...
+- [Boiler Upgrade Scheme 2026](https://retrofitcost.co.uk/grants/boiler-upgrade-scheme): Boiler Upgrade Scheme 2026: amount, eligibility, sunset and stacking with the other live grants
+- [ECO4 retrofit grant (closing 31 Dec 2026)](https://retrofitcost.co.uk/grants/eco4): ECO4 retrofit grant: amount, eligibility, sunset and stacking with the other live grants
+- [Great British Insulation Scheme cost](https://retrofitcost.co.uk/grants/great-british-insulation-scheme): Great British Insulation Scheme cost: amount, eligibility, sunset and stacking with the other live grants
+- [0% VAT on energy-saving materials (to 31 March 2027)](https://retrofitcost.co.uk/grants/vat-zero-rate-2027): 0% VAT on energy-saving materials (to 31 March 2027): amount, eligibility, sunset and stacking with the other live grants
+- [Warm Homes Loan fund (£5bn preview)](https://retrofitcost.co.uk/grants/warm-homes-loan): Warm Homes Loan fund (£5bn preview): amount, eligibility, sunset and stacking with the other live grants
+- [Warm Homes Plan 2027 (preview)](https://retrofitcost.co.uk/grants/warm-homes-plan): Warm Homes Plan 2027: amount, eligibility, sunset and stacking with the other live grants
+- [Retrofit installers UK (2026)](https://retrofitcost.co.uk/installers): Eleven installers and coordinators that operate at national scale in 2026. Mix of energy-supplier installers, design-led specialists, lead aggregators and PAS 2035...
+- [Installer file: aira](https://retrofitcost.co.uk/installers/aira): Installer profile: pricing model, published anchor (where one exists), MCS / BUS handling, and where this installer fits in a 2026 retrofit
+- [Installer file: british gas](https://retrofitcost.co.uk/installers/british-gas): Installer profile: pricing model, published anchor (where one exists), MCS / BUS handling, and where this installer fits in a 2026 retrofit
+- [Installer file: checkatrade retrofit](https://retrofitcost.co.uk/installers/checkatrade-retrofit): Installer profile: pricing model, published anchor (where one exists), MCS / BUS handling, and where this installer fits in a 2026 retrofit
+- [Installer file: eon next](https://retrofitcost.co.uk/installers/eon-next): Installer profile: pricing model, published anchor (where one exists), MCS / BUS handling, and where this installer fits in a 2026 retrofit
+- [Installer file: heat geek](https://retrofitcost.co.uk/installers/heat-geek): Installer profile: pricing model, published anchor (where one exists), MCS / BUS handling, and where this installer fits in a 2026 retrofit
+- [Installer file: octopus energy](https://retrofitcost.co.uk/installers/octopus-energy): Installer profile: pricing model, published anchor (where one exists), MCS / BUS handling, and where this installer fits in a 2026 retrofit
+- [Installer file: ovo heat pump](https://retrofitcost.co.uk/installers/ovo-heat-pump): Installer profile: pricing model, published anchor (where one exists), MCS / BUS handling, and where this installer fits in a 2026 retrofit
+- [Installer file: parity projects](https://retrofitcost.co.uk/installers/parity-projects): Installer profile: pricing model, published anchor (where one exists), MCS / BUS handling, and where this installer fits in a 2026 retrofit
+- [Installer file: peoples powerhouse](https://retrofitcost.co.uk/installers/peoples-powerhouse): Installer profile: pricing model, published anchor (where one exists), MCS / BUS handling, and where this installer fits in a 2026 retrofit
+- [Installer file: quotatis](https://retrofitcost.co.uk/installers/quotatis): Installer profile: pricing model, published anchor (where one exists), MCS / BUS handling, and where this installer fits in a 2026 retrofit
+- [Installer file: retrofit academy](https://retrofitcost.co.uk/installers/retrofit-academy): Installer profile: pricing model, published anchor (where one exists), MCS / BUS handling, and where this installer fits in a 2026 retrofit
+- [Retrofit measures by stratum (PAS 2035)](https://retrofitcost.co.uk/measures): The five PAS 2035 measure strata, costed in 2026: fabric, ventilation, heating, renewables, controls
+- [Smart heating controls cost (UK 2026)](https://retrofitcost.co.uk/measures/controls): Controls stratum: smart thermostat, zoning, weather and load compensation. Installed cost ranges for 2026
+- [Smart thermostat retrofit cost (UK 2026)](https://retrofitcost.co.uk/measures/controls/smart-controls-cost): Tado, Nest, Honeywell Evohome installed cost ranges in 2026, plus where load compensation actually saves on a heat pump
+- [Fabric-first retrofit cost (UK 2026)](https://retrofitcost.co.uk/measures/fabric): Fabric-first retrofit cost in 2026: EWI, IWI, cavity, loft, floor, glazing. PAS 2035 sequences this stratum before ventilation or heating
+- [Cavity wall insulation cost (2026)](https://retrofitcost.co.uk/measures/fabric/cavity-wall-insulation-cost): Cavity wall insulation cost (2026): published installed cost range with the source against each end, plus how it sits in the PAS...
+- [External wall insulation cost (UK 2026)](https://retrofitcost.co.uk/measures/fabric/external-wall-insulation-cost): External wall insulation cost: published installed cost range with the source against each end, plus how it sits in the PAS 2035...
+- [Internal wall insulation cost (UK 2026)](https://retrofitcost.co.uk/measures/fabric/internal-wall-insulation-cost): Internal wall insulation cost: published installed cost range with the source against each end, plus how it sits in the PAS 2035...
+- [Loft insulation cost (UK 2026)](https://retrofitcost.co.uk/measures/fabric/loft-insulation-cost): Loft insulation cost: published installed cost range with the source against each end, plus how it sits in the PAS 2035 fabric-first...
+- [Triple glazing cost (UK 2026)](https://retrofitcost.co.uk/measures/fabric/triple-glazing-cost): Triple glazing cost: published installed cost range with the source against each end, plus how it sits in the PAS 2035 fabric-first...
+- [Suspended floor insulation cost (UK 2026)](https://retrofitcost.co.uk/measures/fabric/underfloor-insulation-cost): Suspended floor insulation cost: published installed cost range with the source against each end, plus how it sits in the PAS 2035...
+- [Retrofit heating cost (UK 2026)](https://retrofitcost.co.uk/measures/heating): Heating stratum cost in 2026: ASHP, GSHP, hybrid, radiator upsize. BUS grant of £7,500 for ASHP and GSHP
+- [Air-source heat pump cost (2026)](https://retrofitcost.co.uk/measures/heating/air-source-heat-pump-cost): Air-source heat pump cost: installed cost range with each end sourced, BUS grant treatment, payback shape
+- [Ground-source heat pump cost (UK 2026)](https://retrofitcost.co.uk/measures/heating/ground-source-heat-pump-cost): Ground-source heat pump cost: installed cost range with each end sourced, BUS grant treatment, payback shape
+- [Hybrid heat pump cost (UK 2026)](https://retrofitcost.co.uk/measures/heating/hybrid-heat-pump-cost): Hybrid heat pump cost: installed cost range with each end sourced, BUS grant treatment, payback shape
+- [Radiator upsize cost for a heat pump (UK 2026)](https://retrofitcost.co.uk/measures/heating/radiator-upsize-cost): Radiator upsize cost for a heat pump: installed cost range with each end sourced, BUS grant treatment, payback shape
+- [Retrofit renewables cost (UK 2026)](https://retrofitcost.co.uk/measures/renewables): Solar PV and battery storage in a 2026 retrofit: installed cost ranges, 0% VAT, Smart Export Guarantee
+- [Home battery storage cost (UK 2026)](https://retrofitcost.co.uk/measures/renewables/battery-storage-cost): Home battery storage cost: installed cost, VAT treatment, payback shape
+- [Solar PV cost (UK 2026)](https://retrofitcost.co.uk/measures/renewables/solar-pv-cost): Solar PV cost: installed cost, VAT treatment, payback shape
+- [Retrofit ventilation cost (UK 2026)](https://retrofitcost.co.uk/measures/ventilation): Ventilation stratum cost in 2026: MVHR, PIV, dMEV. PAS 2035 requires a ventilation review after fabric tightening
+- [MVHR installation cost (UK 2026)](https://retrofitcost.co.uk/measures/ventilation/mvhr-cost): MVHR installation cost: installed cost range with each end sourced
+- [Positive input ventilation cost (UK 2026)](https://retrofitcost.co.uk/measures/ventilation/positive-input-ventilation-cost): Positive input ventilation cost: installed cost range with each end sourced
+- [PAS 2035 retrofit cost (UK 2026)](https://retrofitcost.co.uk/pas-2035): PAS 2035:2023 explained as cost line items: Assessor £400-800, Coordinator £1,500-3,500, Designer (Path B/C), monitoring. When mandatory, when voluntary
+- [Medium-term improvement plan (PAS 2035)](https://retrofitcost.co.uk/pas-2035/medium-term-improvement-plan): Medium-term improvement plan (PAS 2035): working anatomy of the fee line, deliverables, when mandatory
+- [PAS 2035 post-install monitoring cost (UK 2026)](https://retrofitcost.co.uk/pas-2035/post-install-monitoring): PAS 2035 post-install monitoring cost (UK 2026): working anatomy of the fee line, deliverables, when mandatory
+- [Retrofit Assessor cost (UK 2026)](https://retrofitcost.co.uk/pas-2035/retrofit-assessor-cost): Retrofit Assessor cost (UK 2026): working anatomy of the fee line, deliverables, when mandatory
+- [Retrofit Coordinator cost (UK 2026)](https://retrofitcost.co.uk/pas-2035/retrofit-coordinator-cost): Retrofit Coordinator cost (UK 2026): working anatomy of the fee line, deliverables, when mandatory
+- [Retrofit Designer cost (UK 2026)](https://retrofitcost.co.uk/pas-2035/retrofit-designer-cost): Retrofit Designer cost (UK 2026): working anatomy of the fee line, deliverables, when mandatory
+- [PAS 2035 risk paths A, B and C](https://retrofitcost.co.uk/pas-2035/risk-paths-a-b-c): PAS 2035 risk paths A, B and C: working anatomy of the fee line, deliverables, when mandatory
+- [Retrofit cost by region (UK 2026)](https://retrofitcost.co.uk/regional): Regional UK retrofit cost variation in 2026: labour rates, stock mix, regional scheme overlays (GLA, GMCA, WYCA, Home Energy Scotland)
+- [Retrofit cost East of England (UK 2026)](https://retrofitcost.co.uk/regional/east-of-england): Retrofit cost East of England (UK 2026): regional labour-rate premium, stock mix, regional scheme overlays, indicative deep-retrofit envelope
+- [Retrofit cost London (2026)](https://retrofitcost.co.uk/regional/london): Retrofit cost London (2026): regional labour-rate premium, stock mix, regional scheme overlays, indicative deep-retrofit envelope
+- [Retrofit cost North West (UK 2026)](https://retrofitcost.co.uk/regional/north-west): Retrofit cost North West (UK 2026): regional labour-rate premium, stock mix, regional scheme overlays, indicative deep-retrofit envelope
+- [Retrofit cost Scotland (2026)](https://retrofitcost.co.uk/regional/scotland): Retrofit cost Scotland (2026): regional labour-rate premium, stock mix, regional scheme overlays, indicative deep-retrofit envelope
+- [Retrofit cost Yorkshire and the Humber (2026)](https://retrofitcost.co.uk/regional/yorkshire-humber): Retrofit cost Yorkshire and the Humber (2026): regional labour-rate premium, stock mix, regional scheme overlays, indicative deep-retrofit envelope
+- [Sources, citation manifest and calculator coefficients](https://retrofitcost.co.uk/sources): Source-of-record manifest for retrofitcost.co.uk: every primary URL behind every numeric claim, with retrieval dates and the calculator coefficient mapping exposed as JSON
+- [Retrofit installer comparison index (UK 2026)](https://retrofitcost.co.uk/vs): Decision-aid comparisons that matter in 2026: Octopus vs Aira, British Gas vs Octopus, Heat Geek vs Octopus, coordinator vs installer-led, deep vs...
+- [ASHP vs GSHP cost (UK 2026)](https://retrofitcost.co.uk/vs/ashp-vs-gshp): ASHP vs GSHP cost (UK 2026): side-by-side decision aid with capex, grant treatment, payback shape and surveyor's note
+- [British Gas vs Octopus heat pump (UK 2026)](https://retrofitcost.co.uk/vs/british-gas-vs-octopus): British Gas vs Octopus heat pump (UK 2026): side-by-side decision aid with capex, grant treatment, payback shape and surveyor's note
+- [Coordinator-led vs installer-led retrofit (UK 2026)](https://retrofitcost.co.uk/vs/coordinator-vs-installer-led): Coordinator-led vs installer-led retrofit (UK 2026): side-by-side decision aid with capex, grant treatment, payback shape and surveyor's note
+- [Deep retrofit vs heat pump only (UK 2026)](https://retrofitcost.co.uk/vs/deep-retrofit-vs-heat-pump-only): Deep retrofit vs heat pump only (UK 2026): side-by-side decision aid with capex, grant treatment, payback shape and surveyor's note
+- [EWI vs IWI cost (UK 2026)](https://retrofitcost.co.uk/vs/ewi-vs-iwi): EWI vs IWI cost (UK 2026): side-by-side decision aid with capex, grant treatment, payback shape and surveyor's note
+- [Heat Geek vs Octopus (UK 2026)](https://retrofitcost.co.uk/vs/heat-geek-vs-octopus): Heat Geek vs Octopus (UK 2026): side-by-side decision aid with capex, grant treatment, payback shape and surveyor's note
+- [Octopus vs Aira heat pump (UK 2026)](https://retrofitcost.co.uk/vs/octopus-vs-aira): Octopus vs Aira heat pump (UK 2026): side-by-side decision aid with capex, grant treatment, payback shape and surveyor's note
+
+---
+
+*Generated 2026-08-26 from Retrofit cost UK 2026: heat pump vs deep retrofit, grants and PAS 2035 site source.*
